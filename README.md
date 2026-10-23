@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Noor Adn 👋
 
-<!--
-**nooradn/nooradn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer based in Kudus, Indonesia. I enjoy building practical software and exploring tools across the web development ecosystem.
 
-Here are some ideas to get you started:
+## What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Building web projects with **TypeScript** and **JavaScript**
+- Exploring integrations and developer tools, including Supabase, Resend, and S3
+- Working across projects in Python, Vue, Dart, and MDX
+
+## Recent projects
+
+- [s3-browser-localstorage](https://github.com/nooradn/s3-browser-localstorage)
+- [resend-webui-nextjs](https://github.com/nooradn/resend-webui-nextjs)
+- [auth-supabase-playground](https://github.com/nooradn/auth-supabase-playground)
+- [cozy-downloader](https://github.com/nooradn/cozy-downloader)
+
+## About this draft
+
+This is a first-pass profile README based on my public GitHub projects. I'm reviewing the wording and details before using it.
+
+---
+
+More about me: [Linktree](https://linktr.ee/nooradn)

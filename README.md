@@ -5,8 +5,14 @@
 
 ---
 
-### 🛠️ Core Stack
-`TypeScript` · `Next.js` · `Vue` · `Astro` · `Supabase` · `TailwindCSS` · `Python` · `n8n`
+### 🛠️ Capabilities & Stack
+
+| Domain | Technologies & Tools |
+| :--- | :--- |
+| **Frontend** | TypeScript, JavaScript, Next.js, Vue, Astro, React, Tailwind CSS |
+| **Backend & Data** | Python, FastAPI, Node.js, Supabase, PostgreSQL, S3 APIs |
+| **AI Agents & Automation** | Hermes Agent, OpenClaw, n8n pipelines, Webhooks, Resend |
+| **Cloud, Infra & Networking** | AWS, GCP, Cloudflare, Networking & DNS, Docker, Linux & Shell |
 
 ---
 
@@ -23,5 +29,5 @@
 ---
 
 ### 📬 Say Hi
-- 🌐 Main Website: **[nooradn.pages.dev](https://nooradn.pages.dev)**
-- 🔗 Socials & Everything else: **[linktr.ee/nooradn](https://linktr.ee/nooradn)**
+Got an interesting project, collaboration idea, or just want to chat tech?  
+🌐 **[nooradn.pages.dev](https://nooradn.pages.dev)**

@@ -1,24 +1,27 @@
-# Hi, I'm Noor Adn 👋
+# Noor Adn ⚡
 
-I'm a developer based in Kudus, Indonesia. I enjoy building practical software and exploring tools across the web development ecosystem.
-
-## What I'm working on
-
-- Building web projects with **TypeScript** and **JavaScript**
-- Exploring integrations and developer tools, including Supabase, Resend, and S3
-- Working across projects in Python, Vue, Dart, and MDX
-
-## Recent projects
-
-- [s3-browser-localstorage](https://github.com/nooradn/s3-browser-localstorage)
-- [resend-webui-nextjs](https://github.com/nooradn/resend-webui-nextjs)
-- [auth-supabase-playground](https://github.com/nooradn/auth-supabase-playground)
-- [cozy-downloader](https://github.com/nooradn/cozy-downloader)
-
-## About this draft
-
-This is a first-pass profile README based on my public GitHub projects. I'm reviewing the wording and details before using it.
+> Full-stack builder crafting functional web apps & developer tools from Kudus, Indonesia.  
+> Focused on clean UX, practical utility, and shipping fast. ☕
 
 ---
 
-More about me: [Linktree](https://linktr.ee/nooradn)
+### 🛠️ Core Stack
+`TypeScript` · `Next.js` · `Vue` · `Astro` · `Supabase` · `TailwindCSS` · `Python` · `n8n`
+
+---
+
+### 📦 Selected Works
+
+| Project | Tech / Focus | TL;DR |
+| :--- | :--- | :--- |
+| **[resend-webui-nextjs](https://github.com/nooradn/resend-webui-nextjs)** | `Next.js` `Resend API` | Modern dashboard UI for transactional email workflows |
+| **[auth-supabase-playground](https://github.com/nooradn/auth-supabase-playground)** | `Supabase` `Auth` | Practical sandbox for auth patterns & session states |
+| **[cozy-downloader](https://github.com/nooradn/cozy-downloader)** | `Tooling` `Utility` | Minimalist and frictionless media downloader |
+| **[s3-browser-localstorage](https://github.com/nooradn/s3-browser-localstorage)** | `S3` `Storage` | Browser-based file manager leveraging local storage |
+| **[gen-z-defense](https://github.com/nooradn/gen-z-defense)** | `Vanilla Web` `Neo-Brutalism` | Interactive defense hub dismantling generational myths 🍓 |
+
+---
+
+### 📬 Say Hi
+- 🌐 Main Website: **[nooradn.pages.dev](https://nooradn.pages.dev)**
+- 🔗 Socials & Everything else: **[linktr.ee/nooradn](https://linktr.ee/nooradn)**

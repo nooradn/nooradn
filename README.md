@@ -12,6 +12,8 @@
 | **Frontend** | TypeScript, JavaScript, Next.js, Vue, Astro, React, Tailwind CSS |
 | **Backend & Data** | Python, FastAPI, Node.js, Supabase, PostgreSQL, S3 APIs |
 | **AI Agents & Automation** | Hermes Agent, OpenClaw, n8n pipelines, Webhooks, Resend |
+| **AI Video Production** | Remotion, Hyperframes, AI-assisted video workflows |
+| **Design & Creative Tools** | Figma, Canva, FigCraft, VectorCraft |
 | **Cloud, Infra & Networking** | AWS, GCP, Cloudflare, Networking & DNS, Docker, Linux & Shell |
 
 ---
